@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+         "timestamp":"",
+         "nombre": "adad", 
+         "descripcion": "asdasd", 
+         "código":"asd",
+        "foto":"",
+        "precio": 2,
+         "stock":2
+
+
+} ,   
+{
+    "id": 2,
+     "timestamp":"",
+     "nombre": "ffff", 
+     "descripcion": "fffff", 
+     "código":"ffff",
+    "foto":"",
+    "precio": 2,
+     "stock":2
+
+
+},
+{
+    "id": 3,
+     "timestamp":"",
+     "nombre": "gggg", 
+     "descripcion": "gggg", 
+     "código":"gggg",
+    "foto":"",
+    "precio": 2,
+     "stock":2
+
+
+},
+{
+    "id": 4,
+     "timestamp":"",
+     "nombre": "hhhh", 
+     "descripcion": "hhhhh", 
+     "código":"hhhh",
+    "foto":"",
+    "precio": 2,
+     "stock":2
+
+
+}
+
+]
