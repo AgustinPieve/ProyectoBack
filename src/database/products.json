@@ -1,7 +1,6 @@
 [
     {
         "id": 1,
-         "timestamp":"",
          "nombre": "adad", 
          "descripcion": "asdasd", 
          "código":"asd",
@@ -13,7 +12,6 @@
 } ,   
 {
     "id": 2,
-     "timestamp":"",
      "nombre": "ffff", 
      "descripcion": "fffff", 
      "código":"ffff",
@@ -25,7 +23,6 @@
 },
 {
     "id": 3,
-     "timestamp":"",
      "nombre": "gggg", 
      "descripcion": "gggg", 
      "código":"gggg",
@@ -37,7 +34,6 @@
 },
 {
     "id": 4,
-     "timestamp":"",
      "nombre": "hhhh", 
      "descripcion": "hhhhh", 
      "código":"hhhh",
